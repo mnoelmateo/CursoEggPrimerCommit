@@ -1,0 +1,2 @@
+RECORDATORIOS GENERALES
+Git es un Sistema de control de versiones. Administra las distintas versiones de un programa(VCS).
